@@ -4,10 +4,10 @@ layout: default
 
 [back](./)
 
-<img src="/assets/ide.png" width="300">
+<img src="/assets/ide.png" width="700">
 
-<video controls width="600">
-  <source src="/assets/test.mp4" type="video/mov">
+<video controls width="900">
+  <source src="/assets/test.mp4" type="video/mp4">
 </video>
 
 <!-- <iframe width="560" height="315"

@@ -6,8 +6,6 @@ title: Home
 
 This is a paragraph in Markdown.
 
-<body>
-<p>Hello world</p>
-</body>
+Hello world
 
 [Link to another page](./another-page.html).
