@@ -1,7 +1,13 @@
-# Welcome
+---
+title: Home
+---
+
+## Accueil
 
 This is a paragraph in Markdown.
 
-<h1>Hello world</h1>
+<body>
+<p>Hello world</p>
+</body>
 
 [Link to another page](./another-page.html).
