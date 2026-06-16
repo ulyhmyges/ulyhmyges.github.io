@@ -2,4 +2,6 @@
 
 This is a paragraph in Markdown.
 
-<h4>Hello world</h4>
+<h1>Hello world</h1>
+
+[Link to another page](./another-page.html).
