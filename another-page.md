@@ -4,7 +4,7 @@ layout: default
 
 [back](./)
 
-<!-- <img src="/assets/ide.png" width="700"> -->
+<img src="/assets/substitution_cipher_result.png" width="700">
 
 <video controls width="900">
   <source src="./assets/explications.mp4" type="video/mp4">
