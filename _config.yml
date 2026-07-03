@@ -1,8 +1,11 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-tactile
 title: Ulyhmyges's homepage
-description: Bookmark this to keep an eye on my project updates!
+description: Some description here...
 logo: ./assets/clear.png
+toto: View some text
+
 github:
+  public: yes
   is_project_page: yes
   repository_url: https://github.com/ulyhmyges/ulyhmyges.github.io
-
+  repository_nwo: ""

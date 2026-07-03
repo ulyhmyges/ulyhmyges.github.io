@@ -1,12 +1,14 @@
 ---
-layout: default
+layout: body
 ---
 
 [back](./)
 
-<img src="/assets/substitution_cipher_result.png" width="700">
+changed
 
-<video controls width="900">
+<img src="./assets/substitution_cipher_result.png" width="500">
+
+<video controls width="500">
   <source src="./assets/explications.mp4" type="video/mp4">
 </video>
 

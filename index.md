@@ -1,11 +1,9 @@
 ---
-title: Home
+title: Homepage 
 ---
 
 ## Accueil
 
 This is a paragraph in Markdown.
-
-Hello world
 
 [Link to another page](./another-page.html).
