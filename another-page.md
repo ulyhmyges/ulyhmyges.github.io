@@ -4,7 +4,7 @@ layout: body
 
 [back](./)
 
-changed
+changed no video embedded
 
 <img src="./assets/substitution_cipher_result.png" width="500">
 
@@ -12,6 +12,6 @@ changed
   <source src="./assets/explications.mp4" type="video/mp4">
 </video> -->
 
-<iframe width="560" height="315"
+<!-- <iframe width="560" height="315"
 src="https://www.youtube.com/watch?v=CPrePbvbbic">
-</iframe>
+</iframe> -->
