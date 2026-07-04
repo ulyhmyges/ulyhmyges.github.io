@@ -1,5 +1,5 @@
 ---
-layout: body
+layout: default
 ---
 
 [back](./)
