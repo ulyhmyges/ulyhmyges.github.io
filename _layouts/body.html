@@ -2,24 +2,44 @@
 layout: base
 ---
 
+<style>
+.bb {
+  display: block;
+  float: left;
+  width: auto;
+  margin-right: 14px;
+  margin-left: 5px;
+  padding: 18px 18px 18px 18px;
+  font-size: 15px;
+  font-weight: bold;
+  color: #303030;
+  background: #fdfdfd;
+  border-radius: 30px;
+  border-top: solid 1px #cbcbcb;
+  border-right: solid 1px #b7b7b7;
+  border-bottom: solid 1px #b3b3b3;
+  border-left: solid 1px #b7b7b7;
+  cursor: pointer;
+}
+
+.bb:hover {
+  background: #fafafa;
+  border-top: solid 1px #cbcbcb;
+  border-right: solid 1px #b7b7b7;
+  border-bottom: solid 1px #b3b3b3;
+  border-left: solid 1px #b7b7b7;
+  border-radius: 30px;
+}
+</style>
+
 <header>
   <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
   <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
 </header>
-
+<hr>
 <section id="downloads" class="clearfix">
-  {% if site.show_downloads %}
-    <a href="{{ site.github.zip_url }}" id="download-zip" class="button"><span>Download .zip</span></a>
-    <a href="{{ site.github.tar_url }}" id="download-tar-gz" class="button"><span>Download .tar.gz</span></a>
-  {% endif %}
-
-  {% if site.github.public %}
-    {% if site.github.is_project_page %}
-      <a href="{{ site.github.repository_url }}" id="view-on-github" class="button"><span>View on GitHub</span></a>
-    {% else %}
-      <a href="{{ site.github.owner_url }}" id="view-on-github" class="button"><span>View on GitHub</span></a>
-    {% endif %}
-  {% endif %}
+  <a href="{{ site.github.fx.repository_url }}"><button class="bb"><img src="../assets/images/octocat-icon.png" alt="Icon Github" style="width:20px; vertical-align:middle; margin-right: 10px;">Project on Github</button></a>
+  <a href="{{ site.github.fx.webserver_url }}"><button class="bb" style="float: right; margin-right: 50px;"><img src="../assets/images/www.png" alt="Icon website" style="width:20px; vertical-align:middle; margin-right: 10px;">Web App</button></a>
 </section>
 
 <hr>

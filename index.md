@@ -1,9 +1,7 @@
 ---
-title: Homepage 
+title: Code, tapping and carriage return
 ---
 
-## Accueil
+## Available projects
 
-This is a paragraph in Markdown.
-
-[Link to another page](./another-page.html).
+- [FX-Market-Data-API](./fxapp-page.html).

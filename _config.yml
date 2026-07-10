@@ -1,6 +1,6 @@
 theme: jekyll-theme-tactile
-title: Ulyhmyges's homepage
-description: Some description here...
+title: Code, tapping and carriage return
+description: Welcome to my tiny space, explore my work
 logo: ./assets/clear.png
 toto: View some text
 
@@ -9,3 +9,7 @@ github:
   is_project_page: yes
   repository_url: https://github.com/ulyhmyges/ulyhmyges.github.io
   repository_nwo: ""
+  fx:
+    repository_url: https://github.com/ulyhmyges/FX-Market-Data-API
+    webserver_url: http://141.253.124.101:8088/
+
