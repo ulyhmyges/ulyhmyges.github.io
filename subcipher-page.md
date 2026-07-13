@@ -2,6 +2,7 @@
 layout: body
 title: Substitution Cipher
 description: Designed and developed a C++ class implementing the Vigenère (polyalphabetic substitution) cipher algorithm
+project_page: subcipher
 ---
 
 [back](./)
@@ -23,6 +24,7 @@ description: Designed and developed a C++ class implementing the Vigenère (poly
 <h4>Recover the substitution key from plaintext–ciphertext pairs</h4>
 
 <img src="./assets/img/archi_p2.png" width="500">
+
 ---
 
 <h3>Class Diagram</h3>
