@@ -2,6 +2,7 @@
 layout: body
 title: FX-Market-Data-API
 description: Flutter Web Application
+project_page: fxapp
 ---
 
 [back](./)

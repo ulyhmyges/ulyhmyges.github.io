@@ -3,7 +3,6 @@ title: Code, tapping and carriage return
 description: Welcome to my tiny space, explore my work
 logo: ./assets/clear.png
 toto: View some text
-project_page: fxapp
 
 github:
   public: yes
@@ -13,4 +12,7 @@ github:
   fx:
     repository_url: https://github.com/ulyhmyges/FX-Market-Data-API
     webserver_url: http://141.253.124.101:8088/
+  sub:
+    repository_url: https://github.com/ulyhmyges/substitutionCipher
+    video_url: https://www.youtube.com/watch?v=d25MXMe9U8s
 
