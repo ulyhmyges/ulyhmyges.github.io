@@ -39,9 +39,9 @@ project_page: subcipher
 
 ---
 
-<h3>Explain project (in French) with tests</h3>
+<!-- <h3>Explain project (in French) with tests</h3>
 
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/d25MXMe9U8s"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-</iframe>
+</iframe> -->
