@@ -10,16 +10,17 @@ description: Designed and developed a C++ class implementing the Vigenère (poly
 
 - Encrypt uppercase text using a key
 - Recover the substitution key from plaintext–ciphertext pairs
+- Display results on the console and can be saved to a file
 
 ---
 
 <h3>Architecture Diagram of the C++ program</h3>
 
-Encrypt uppercase text using a key
+<h4>Encrypt uppercase text using a key</h4>
 
 <img src="./assets/img/archi_p1.png" width="500">
 
-Recover the substitution key from plaintext–ciphertext pairs
+<h4>Recover the substitution key from plaintext–ciphertext pairs</h4>
 
 <img src="./assets/img/archi_p2.png" width="500">
 ---
@@ -30,7 +31,7 @@ Recover the substitution key from plaintext–ciphertext pairs
 
 ---
 
-<h3>Result Output Example</h3>
+<h3>Program Output</h3>
 
 <img src="./assets/img/subcipher-result.png" width="500">
 
