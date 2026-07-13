@@ -16,13 +16,25 @@ description: Flutter Web Application
 
 <h3>Architecture Diagram</h3>
 
-<img src="./assets/fxapp-archi.png" width="500">
+<img src="./assets/images/fxapp-archi.png" width="500">
 
 ---
 
 <h3>Use Case Diagram</h3>
 
-<img src="./assets/fxapp-usecase.png" width="500">
+<img src="./assets/images/fxapp-usecase.png" width="500">
+
+---
+
+<h3>Entity-Relationship Diagram</h3>
+
+<img src="./assets/images/fxapp-MCD.png" width="500">
+
+---
+
+<h3>Logical Data Model Diagram</h3>
+
+<img src="./assets/images/fxapp-MLD.png" width="500">
 
 <!-- <video controls width="500">
   <source src="./assets/explications.mp4" type="video/mp4">
