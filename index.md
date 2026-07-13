@@ -1,7 +1,7 @@
 ---
 title: Coding, tapping and carriage return
 github:
-    is_project_page: no
+    is_project_page: false
 ---
 
 ## Available projects
