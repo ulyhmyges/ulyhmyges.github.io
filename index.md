@@ -6,4 +6,5 @@ github:
 
 ## Available projects
 
-- [FX-Market-Data-API](./fxapp-page.html).
+- [FX-Market-Data-API](./fxapp-page.html)
+- [Substitution Cipher](./subcipher-page.html)
